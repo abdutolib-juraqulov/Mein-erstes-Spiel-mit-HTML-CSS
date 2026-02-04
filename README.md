@@ -1,7 +1,7 @@
 Ich bewerbe mich um eine Ausbildung zum
 **Fachinformatiker für Anwendungsentwicklung**.
 
-Dieses GitHub-Profil dokumentiert meine Lernprojekte
+Dieses GitHub-Profil zeigt meine Lernprojekte
 und Programmierübungen mit Python, Java, HTML und CSS.
 
 ## 🔧 Aktueller Lernstand
