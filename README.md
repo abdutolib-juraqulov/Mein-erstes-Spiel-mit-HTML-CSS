@@ -1,5 +1,3 @@
-:
-
 🎮 Mein erstes RPG-Spiel
 
 Mein erstes kleines, textbasiertes RPG, bei dem der Spieler Entscheidungen trifft, die die Geschichte verändern.
