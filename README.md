@@ -1,19 +1,19 @@
-Ich bewerbe mich um eine Ausbildung zum
-**Fachinformatiker für Anwendungsentwicklung**.
+:
 
-Dieses GitHub-Profil zeigt meine Lernprojekte
-und Programmierübungen mit Python, Java, HTML und CSS.
+🎮 Mein erstes RPG-Spiel
 
-## 🔧 Aktueller Lernstand
-- Programmierung in Python und Java
-- Webentwicklung mit HTML und CSS
-- Bedingungen, Schleifen, einfache Algorithmen
+Mein erstes kleines, textbasiertes RPG, bei dem der Spieler Entscheidungen trifft, die die Geschichte verändern.
 
-## 📁 Projekte
-- Python: Rechner, Zahlen prüfen, kleine Konsolenprogramme
-- Java: einfache Konsolenprogramme
-- HTML/CSS: einfache Webseiten
+✨ Funktionen
 
-## 🎯 Ziel
-Meine Lernprojekte zeigen mein Interesse an Softwareentwicklung
-und meine Motivation, mich auf die Ausbildung vorzubereiten.
+Entscheidungsbasierter Spielverlauf
+
+Mehrere Wege und mögliche Enden
+
+🛠️ Technologien
+
+HTML & CSS (ohne JavaScript)
+
+🎯 Ziel
+
+Lernprojekt, um HTML, CSS und logisches Denken beim Aufbau eines Spiels zu üben. Erstes eigenes Spiel im Rahmen meiner Vorbereitung auf die Ausbildung zum Fachinformatiker für Anwendungsentwicklung.
